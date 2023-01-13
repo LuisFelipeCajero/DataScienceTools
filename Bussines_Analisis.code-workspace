@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\Terminal"
+		},
+		{
+			"path": "..\\..\\Progra_101\\Seccion-8.0\\ahorcado"
+		},
+		{
+			"path": "..\\Python"
+		},
+		{
+			"path": "..\\Git-Github-Course\\proyecto1"
+		},
+		{
+			"path": "..\\Curso-Jupyter-notebook-Anaconda"
+		}
+	],
+	"settings": {}
+}
